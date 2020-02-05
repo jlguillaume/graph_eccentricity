@@ -17,6 +17,7 @@ gcc eccentricity.c -o eccentricity -O9
 
 Execute using example.graph which is the graph from the reference cited above (A=0, B=1, L=11):
 
+```
 $ ./eccentricity example.graph
 12 nodes 13 edges
 0 5
@@ -32,4 +33,4 @@ $ ./eccentricity example.graph
 10 4
 11 6
 12 nodes 6 steps
-
+```
